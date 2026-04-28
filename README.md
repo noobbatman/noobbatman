@@ -22,6 +22,26 @@
 
 ---
 
+<div align="center">
+
+*"Your focus determines your reality."*
+<br/>
+— Qui-Gon Jinn to Anakin Skywalker
+
+<br/>
+
+<!-- PAC-MAN CONTRIBUTION GRAPH -->
+<!-- Run the GitHub Action (see setup below) and this will appear automatically -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noobbatman/noobbatman/output/pacman-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noobbatman/noobbatman/output/pacman.svg"/>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/noobbatman/noobbatman/output/pacman.svg"/>
+</picture>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -125,24 +145,11 @@ EDA → 8-model comparison → Flask web app → AWS Elastic Beanstalk deploymen
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=noobbatman&theme=tokyonight&hide_border=true&background=0d1117&ring=FF4C4C&fire=FF4C4C&currStreakLabel=FF4C4C)](https://git.io/streak-stats)
 
-<br/>
-
-<!-- PAC-MAN CONTRIBUTION GRAPH — setup instructions below -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noobbatman/noobbatman/output/pacman-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noobbatman/noobbatman/output/pacman.svg"/>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/noobbatman/noobbatman/output/pacman.svg"/>
-</picture>
-
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,50:8b0000,100:0d0d0d&height=100&section=footer"/>
-
-*"This is where the fun begins."* — Anakin Skywalker
 
 ![Profile Views](https://komarev.com/ghpvc/?username=noobbatman&color=FF4C4C&style=flat-square&label=Profile+Views)
 
