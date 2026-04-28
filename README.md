@@ -13,10 +13,6 @@
 
 <br/>
 
-<!-- BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istiak-mahmud-joy-4677a7266/)
-[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/i/IstiakMahmud.terminal-error-sound?style=for-the-badge&label=VSCode+Installs&color=007ACC&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=IstiakMahmud.terminal-error-sound)
-[![GitHub followers](https://img.shields.io/github/followers/noobbatman?style=for-the-badge&logo=github&color=181717)](https://github.com/noobbatman)
 
 </div>
 
@@ -25,10 +21,7 @@
 <div align="center">
 
 *"Someday I will be... I will be the most powerful Jedi ever!"*
-<br/>
-— Anakin Skywalker
 
-<br/>
 
 <!-- PAC-MAN CONTRIBUTION GRAPH -->
 <picture>
