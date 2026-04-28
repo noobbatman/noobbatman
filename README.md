@@ -5,6 +5,8 @@
 
 <img src="https://c.tenor.com/v8ySJn6OWfEAAAAC/darth-vader-hallway.gif" width="500px" alt="Darth Vader Hallway Scene"/>
 
+*"Someday I will be... I will be the most powerful Jedi ever!"*
+
 <!-- RED DIVIDER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,50:8b0000,100:0d0d0d&height=80&section=footer&reversal=true" width="100%"/>
 
@@ -20,7 +22,7 @@
 
 <div align="center">
 
-*"Someday I will be... I will be the most powerful Jedi ever!"*
+
 
 
 <!-- PAC-MAN CONTRIBUTION GRAPH -->
