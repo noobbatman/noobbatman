@@ -8,7 +8,7 @@
 <!-- QUOTE IN CINZEL DECORATIVE FONT -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=15&pause=99999&color=FF4C4C&center=true&vCenter=true&repeat=false&width=780&height=45&lines=%22Someday+I+will+be...+I+will+be+the+most+powerful+Jedi+ever!%22" alt="Anakin Quote"/>
 <br/>
-<sub><i>— Anakin Skywalker</i></sub>
+
 
 <!-- RED DIVIDER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,50:8b0000,100:0d0d0d&height=80&section=footer&reversal=true" width="100%"/>
