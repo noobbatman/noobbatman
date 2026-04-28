@@ -5,32 +5,22 @@
 
 <img src="https://c.tenor.com/v8ySJn6OWfEAAAAC/darth-vader-hallway.gif" width="500px" alt="Darth Vader Hallway Scene"/>
 
-*"Someday I will be... I will be the most powerful Jedi ever!"*
+<!-- QUOTE IN CINZEL DECORATIVE FONT -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=15&pause=99999&color=FF4C4C&center=true&vCenter=true&repeat=false&width=780&height=45&lines=%22Someday+I+will+be...+I+will+be+the+most+powerful+Jedi+ever!%22" alt="Anakin Quote"/>
+<br/>
+<sub><i>— Anakin Skywalker</i></sub>
 
 <!-- RED DIVIDER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,50:8b0000,100:0d0d0d&height=80&section=footer&reversal=true" width="100%"/>
 
-<!-- NAME BELOW THE WAVE -->
 <h1>Istiak Mahmud Joy</h1>
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istiak-mahmud-joy-4677a7266/)
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/i/IstiakMahmud.terminal-error-sound?style=for-the-badge&label=VSCode+Installs&color=007ACC&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=IstiakMahmud.terminal-error-sound)
+[![GitHub followers](https://img.shields.io/github/followers/noobbatman?style=for-the-badge&logo=github&color=181717)](https://github.com/noobbatman)
 
-
-</div>
-
----
-
-<div align="center">
-
-
-
-
-<!-- PAC-MAN CONTRIBUTION GRAPH -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noobbatman/noobbatman/output/pacman-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noobbatman/noobbatman/output/pacman.svg"/>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/noobbatman/noobbatman/output/pacman.svg"/>
-</picture>
+<!-- ACTIVITY GRAPH — no setup needed, works immediately -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noobbatman&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FF4C4C&line=8b0000&point=FF4C4C&area=true&area_color=1a0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
