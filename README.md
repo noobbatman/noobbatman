@@ -24,14 +24,13 @@
 
 <div align="center">
 
-*"Your focus determines your reality."*
+*"Someday I will be... I will be the most powerful Jedi ever!"*
 <br/>
-— Qui-Gon Jinn to Anakin Skywalker
+— Anakin Skywalker
 
 <br/>
 
 <!-- PAC-MAN CONTRIBUTION GRAPH -->
-<!-- Run the GitHub Action (see setup below) and this will appear automatically -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noobbatman/noobbatman/output/pacman-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noobbatman/noobbatman/output/pacman.svg"/>
@@ -44,62 +43,68 @@
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🧠 [Document Intelligence Platform](https://github.com/noobbatman/END-TO-END)
-Production-grade AI document pipeline. OCR → classify → extract → validate → human review loop with Celery task queues, fraud detection, and 110 tests.
 
-`FastAPI` `Celery` `Redis` `PostgreSQL` `Docker`
+> Production-grade AI document pipeline — OCR → classify → extract → validate → human review loop with fraud detection and 110 tests.
 
-</td>
-<td width="50%">
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
 
 ### 🤟 [Bangla Sign Language Detector](https://github.com/noobbatman/Bangla_Sign_Lang_Detection)
-Real-time BdSL gesture recognition. Custom 607-feature extractor + Conv1D + BiLSTM + Multi-Head Attention. Recognises dynamic motion, not just static poses.
 
-`TensorFlow` `MediaPipe` `OpenCV` `BiLSTM` `Attention`
+> Real-time BdSL gesture recognition using a custom 607-feature motion extractor + Conv1D + BiLSTM + Multi-Head Attention. Recognises dynamic signs — not just static poses.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+
+---
 
 ### 🔊 [Terminal Error Sound](https://github.com/noobbatman/Terminal-Error-Audio-VsCodeExtension)
-VS Code extension that plays a sound when any terminal command fails. Cross-platform, debounced, toggle-able. **Published on the VS Code Marketplace.**
 
-`TypeScript` `VS Code API` `Shell Integration API`
+> VS Code extension that plays a sound the moment any terminal command fails. Cross-platform. Debounced. **Published on the official VS Code Marketplace.**
 
-</td>
-<td width="50%">
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code_API-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Marketplace](https://img.shields.io/visual-studio-marketplace/i/IstiakMahmud.terminal-error-sound?style=flat-square&label=Installs&color=007ACC)
+
+---
 
 ### 🎨 [Inkflow Whiteboard](https://github.com/noobbatman/whiteboard)
-Real-time collaborative whiteboard. Java Spring Boot + HTML5 Canvas + WebSocket + Docker Compose + **Kubernetes** deployment manifest.
 
-`Java` `Spring Boot` `WebSocket` `Docker` `Kubernetes`
+> Real-time collaborative whiteboard with Java Spring Boot, HTML5 Canvas, WebSocket sync, Docker Compose, and a full **Kubernetes** deployment manifest.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
 
 ### 🤖 [ArchiTECH — AI Product Planner](https://github.com/noobbatman/ArchiTECH)
-One sentence idea → AI simulates 1,000 users → writes user stories → auto-populates Trello board. Built at a hackathon as backend lead.
 
-`CrewAI` `FastAPI` `Gemini` `Trello API` `PostgreSQL`
+> One sentence idea → AI crew simulates 1,000 users → extracts top features → writes user stories → auto-populates your Trello board. Built at a hackathon as backend lead.
 
-</td>
-<td width="50%">
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat-square&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+---
 
 ### 📊 [Student Exam Score Predictor](https://github.com/noobbatman/Student_performance_indicator)
-EDA → 8-model comparison → Flask web app → AWS Elastic Beanstalk deployment. Modular pipeline built for retraining.
 
-`scikit-learn` `CatBoost` `XGBoost` `Flask` `AWS EB`
+> EDA → 8-model comparison → Flask web app → deployed to AWS Elastic Beanstalk. Modular pipeline designed for easy retraining.
 
-</td>
-</tr>
-</table>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EB-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
