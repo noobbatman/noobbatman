@@ -1,22 +1,27 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
+<!-- TOP BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0000,100:3d0000&height=130&section=header&text=&animation=fadeIn" width="100%"/>
 
-<!-- VADER GIF -->
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="320px" alt="Darth Vader"/>
+<img src="https://c.tenor.com/v8ySJn6OWfEAAAAC/darth-vader-hallway.gif" width="500px" alt="Darth Vader Hallway Scene"/>
 
-<br/>
+<br/><br/>
 
-<!-- ANIMATED TITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FF4C4C&center=true&vCenter=true&width=650&lines=Hello+there.;I'm+Istiak+Mahmud.;AI+%26+Backend+Engineer.;I+build+things+that+actually+ship." alt="Typing SVG"/>
+<!-- NAME -->
+<h1>Istiak Mahmud Joy</h1>
+
+<!-- ONE LINER -->
+<p><strong>AI & Backend Engineer &nbsp;·&nbsp; CSE @ Dhaka University &nbsp;·&nbsp; 🇧🇩 Dhaka, Bangladesh</strong></p>
 
 <br/>
 
 <!-- BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istiak-mahmud-joy-4677a7266/)
 [![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/i/IstiakMahmud.terminal-error-sound?style=for-the-badge&label=VSCode+Installs&color=007ACC&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=IstiakMahmud.terminal-error-sound)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/noobbatman)
+[![GitHub followers](https://img.shields.io/github/followers/noobbatman?style=for-the-badge&logo=github&color=181717)](https://github.com/noobbatman)
+
+<!-- BOTTOM BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,50:1a0000,100:0d0d0d&height=80&section=footer&reversal=true" width="100%"/>
 
 </div>
 
@@ -24,34 +29,26 @@
 
 ## ⚡ About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=99999&color=FF4C4C&width=480&height=25&lines=🇧🇩+Based+in+Dhaka%2C+Bangladesh" alt=""/>
+| | |
+|---|---|
+| 📍 | Dhaka, Bangladesh |
+| 🎓 | Computer Science Engineering — Dhaka University |
+| 🧠 | Building AI pipelines · Multi-agent systems · Computer Vision |
+| 🤟 | Making Bangla Sign Language accessible with deep learning |
+| 🔊 | Published a VS Code extension on the official Marketplace |
+| 🚀 | Python · TypeScript · Java |
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=99999&color=58A6FF&width=480&height=25&lines=🎓+CS+%40+Your+University+(update+this!)" alt=""/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=99999&color=3FB950&width=480&height=25&lines=🧠+Building+AI+pipelines+with+FastAPI+%2B+CrewAI" alt=""/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=99999&color=3FB950&width=480&height=25&lines=🤟+Making+Bangla+Sign+Language+accessible" alt=""/>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=99999&color=E8B4B8&width=480&height=25&lines=🔊+Published+on+the+VS+Code+Marketplace" alt=""/>
+> *"The dark side of the codebase is a pathway to many abilities some consider to be... undeployable."*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=99999&color=FFA657&width=480&height=25&lines=⚔️+Python+%7C+TypeScript+%7C+Java" alt=""/>
-
-<br/><br/>
-
-> *"The dark side of the codebase is a pathway to many abilities<br/>some consider to be... undeployable."*
-
-</td>
-<td width="45%" align="center" valign="top">
-
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="260px" alt="lightsaber"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -70,7 +67,7 @@ Production-grade AI document pipeline. OCR → classify → extract → validate
 <td width="50%">
 
 ### 🤟 [Bangla Sign Language Detector](https://github.com/noobbatman/Bangla_Sign_Lang_Detection)
-Real-time BdSL gesture recognition. Custom 607-feature extractor + Conv1D + BiLSTM + Multi-Head Attention. Recognises motion, not just static poses.
+Real-time BdSL gesture recognition. Custom 607-feature extractor + Conv1D + BiLSTM + Multi-Head Attention. Recognises dynamic motion, not just static poses.
 
 `TensorFlow` `MediaPipe` `OpenCV` `BiLSTM` `Attention`
 
@@ -80,7 +77,7 @@ Real-time BdSL gesture recognition. Custom 607-feature extractor + Conv1D + BiLS
 <td width="50%">
 
 ### 🔊 [Terminal Error Sound](https://github.com/noobbatman/Terminal-Error-Audio-VsCodeExtension)
-VS Code extension: plays a sound when any terminal command fails. Cross-platform. Debounced. **Published on the VS Code Marketplace.**
+VS Code extension that plays a sound when any terminal command fails. Cross-platform, debounced, toggle-able. **Published on the VS Code Marketplace.**
 
 `TypeScript` `VS Code API` `Shell Integration API`
 
@@ -98,7 +95,7 @@ Real-time collaborative whiteboard. Java Spring Boot + HTML5 Canvas + WebSocket 
 <td width="50%">
 
 ### 🤖 [ArchiTECH — AI Product Planner](https://github.com/noobbatman/ArchiTECH)
-One sentence → AI simulates 1,000 users → writes user stories → auto-populates your Trello board. Built at a hackathon as backend lead.
+One sentence idea → AI simulates 1,000 users → writes user stories → auto-populates Trello board. Built at a hackathon as backend lead.
 
 `CrewAI` `FastAPI` `Gemini` `Trello API` `PostgreSQL`
 
@@ -158,22 +155,13 @@ EDA → 8-model comparison → Flask web app → AWS Elastic Beanstalk deploymen
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=noobbatman&theme=tokyonight&hide_border=true&background=0d1117&ring=FF4C4C&fire=FF4C4C&currStreakLabel=FF4C4C)](https://git.io/streak-stats)
 
-<br/>
-
-<!-- CONTRIBUTION SNAKE — set this up via GitHub Actions, see note below -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noobbatman/noobbatman/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noobbatman/noobbatman/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/noobbatman/noobbatman/output/github-snake.svg"/>
-</picture>
-
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,50:1a0000,100:0d0d0d&height=100&section=footer"/>
 
 *"The Force is strong with this codebase."*
 
